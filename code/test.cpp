@@ -1,8 +1,12 @@
-#include <string>
 #include <iostream>
-// #include "test.h"
-#define X 1
 
-int main(){
-    std::cout<<X<<std::endl;
+
+int main()
+{
+    int x= 0x16;
+    int y = 016;
+    int z = 0b11;
+    std::cout<<
+        "123"
+        << "456";
 }
