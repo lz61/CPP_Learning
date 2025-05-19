@@ -7,3 +7,10 @@ const int x = 1;
 x = 2; // 错误
 ```
 
+3.const典型用法:
+
+```
+const double pi = 3.14;
+const double e = 2.71828;
+```
+
